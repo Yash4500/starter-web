@@ -9,7 +9,11 @@ of the git repository and various commands
 using a web projects.
 
 ## Purpose 
+As stated above, the main purpose is to
+provide simple example for Git training
+demos.
 
 ##Deployment
+This is simple web project,deployment
 
 ## How to contribute
